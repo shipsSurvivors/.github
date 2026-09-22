@@ -1,56 +1,53 @@
-# 🚢 shipsSurvivors
+# shipsSurvivors
 
- Welcome to the GitHub organization for **shipsSurvivors**, a game created by **Aztec Game Lab – Team 8** for **Game Jam 2026**.
+**shipsSurvivors** is a top-down survivorslike being developed in Godot by **Aztec Game Lab — Team 8** for **Game Jam 2026**.
 
- ## 🎮 About the Project
+Players pilot a ship across an open ocean while enemies continuously close in. Weapons activate automatically, defeated enemies provide experience, and leveling up allows the player to choose upgrades throughout each run.
 
- **shipsSurvivors** is a game developed during **Game Jam 2026** by Aztec Game Lab Team 8. Our goal is to create a fun and engaging experience while exploring game development, teamwork, and rapid prototyping.
+## Project
 
- This organization contains the development work, assets, documentation, and other resources created by our team throughout the game jam.
+- **Event:** Game Jam 2026
+- **Team:** Aztec Game Lab — Team 8
+- **Engine:** Godot
+- **Status:** In development
 
- ## 👥 Our Team
+## Team
 
- **Aztec Game Lab – Team 8**
+Our team includes contributors working across:
 
- We are a group of developers and creators working together to design, build, and polish **shipsSurvivors** during Game Jam 2026.
+- Programming
+- Art and visual design
+- Audio
+- Game design
 
- ## 🛠️ Project
+GitHub is used to organize development tasks, track progress, manage source code, and coordinate contributions throughout the project.
 
- **Project Name:** shipsSurvivors\
- **Event:** Game Jam 2026\
- **Team:** Aztec Game Lab – Team 8\
- **Development:** Team 8
+## Repositories
 
- ## 🎯 Our Goals
+### [`game`](https://github.com/shipsSurvivors/game)
 
- - 🎮 Create an enjoyable game experience
-- 🚢 Bring the **shipsSurvivors** concept to life
-- 🤝 Collaborate as a team
-- 💡 Experiment with game mechanics and ideas
-- 🛠️ Learn and improve our game development skills
-- ⏱️ Build and polish a playable game within the game jam timeframe
+The main shipsSurvivors repository containing the Godot project, source code, game assets, and development files.
 
- ## 📂 Organization Structure
+### [`.github`](https://github.com/shipsSurvivors/.github)
 
- Our repositories may contain different parts of the project, including:
+Organization-level configuration and the public profile for the shipsSurvivors GitHub organization.
 
- - **Game source code**
-- **Art and visual assets**
-- **Audio and music**
-- **Game design documentation**
-- **Tools and development resources**
-- **Builds and releases**
+## Development Workflow
 
- ## 🚀 Development
+Development is tracked using [GitHub Issues](https://github.com/shipsSurvivors/game/issues) and the [shipsSurvivors Development project board](https://github.com/orgs/shipsSurvivors/projects/2).
 
- This project is being developed as part of **Game Jam 2026**, so things may change quickly as we experiment, iterate, and improve the game.
+Contributors generally follow this workflow:
 
- Expect bugs, unfinished features, and plenty of changes along the way! 🐛
+1. Choose or receive an [Issue](https://github.com/shipsSurvivors/game/issues).
+2. Create a branch for the task.
+3. Make and commit changes.
+4. Push the branch to GitHub.
+5. Open a Pull Request.
+6. Review and test the changes.
+7. Merge the Pull Request into `main`.
 
----
+Art and audio tasks are also tracked through [Issues](https://github.com/shipsSurvivors/game/issues) so that development work remains visible in one place.
 
- ### 🚢 shipsSurvivors
+## Current Goal
 
- **Made with teamwork, creativity, and way too much coffee.**
-
- **Aztec Game Lab — Team 8 | Game Jam 2026**
+Build and polish a complete playable version of shipsSurvivors by October 2, 2026.
