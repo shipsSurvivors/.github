@@ -34,11 +34,11 @@ Organization-level configuration and the public profile for the shipsSurvivors G
 
 ## Development Workflow
 
-Development is tracked using GitHub Issues and Projects.
+Development is tracked using [GitHub Issues](https://github.com/shipsSurvivors/game/issues) and the [shipsSurvivors Development project board](https://github.com/orgs/shipsSurvivors/projects/2).
 
 Contributors generally follow this workflow:
 
-1. Choose or receive an Issue.
+1. Choose or receive an [Issue](https://github.com/shipsSurvivors/game/issues).
 2. Create a branch for the task.
 3. Make and commit changes.
 4. Push the branch to GitHub.
@@ -46,8 +46,8 @@ Contributors generally follow this workflow:
 6. Review and test the changes.
 7. Merge the Pull Request into `main`.
 
-Art and audio tasks are also tracked through Issues so that development work remains visible in one place.
+Art and audio tasks are also tracked through [Issues](https://github.com/shipsSurvivors/game/issues) so that development work remains visible in one place.
 
 ## Current Goal
 
-Build and polish a complete playable version of shipsSurvivors within the Game Jam 2026 timeframe.
+Build and polish a complete playable version of shipsSurvivors by October 2, 2026.
