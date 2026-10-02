@@ -1,6 +1,6 @@
-# shipsSurvivors
+# Deadflow
 
-**shipsSurvivors** is a top-down survivorslike being developed in Godot by **Aztec Game Lab — Team 8** for **Game Jam 2026**.
+**Deadflow** is a top-down survivorslike being developed in Godot by **Aztec Game Lab — Team 8** for **Game Jam 2026**.
 
 Players pilot a ship across an open ocean while enemies continuously close in. Weapons activate automatically, defeated enemies provide experience, and leveling up allows the player to choose upgrades throughout each run.
 
