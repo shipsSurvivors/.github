@@ -9,7 +9,7 @@ Players pilot a ship across an open ocean while enemies continuously close in. W
 - **Event:** Game Jam 2026
 - **Team:** Aztec Game Lab — Team 8
 - **Engine:** Godot
-- **Status:** In development
+- **Status:** Completed
 
 ## Team
 
